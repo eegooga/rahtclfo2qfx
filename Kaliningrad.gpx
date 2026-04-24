@@ -1,120 +1,194 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no" ?>
 <gpx xmlns="http://www.topografix.com/GPX/1/1" creator="http://nakarte.me" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1">
 	<metadata>
-		<time>2026-04-24T12:10:55.560Z</time>
+		<time>2026-04-24T16:55:54.825Z</time>
 	</metadata>
-	<wpt lat="54.717092" lon="20.516050">
+	<wpt lat="54.717089" lon="20.516046">
+		<ele>21.3</ele>
 		<name>Сергеева 23</name>
 	</wpt>
-	<wpt lat="54.953980" lon="20.477133">
+	<wpt lat="54.953981" lon="20.477144">
+		<ele>-0.8</ele>
 		<name>Автомобилистов 9</name>
 	</wpt>
-	<wpt lat="54.706437" lon="20.512038">
+	<wpt lat="54.706446" lon="20.512034">
+		<ele>2.4</ele>
 		<name>Концерт Орган</name>
 	</wpt>
-	<wpt lat="54.719703" lon="20.502860">
+	<wpt lat="54.719706" lon="20.502850">
+		<ele>18.2</ele>
 		<name>Хмель</name>
 	</wpt>
-	<wpt lat="54.793235" lon="20.533693">
-		<name>Бар с турнирами</name>
+	<wpt lat="54.793242" lon="20.533685">
+		<ele>22.7</ele>
+		<name>Нессельбек(Бар с турнирами)</name>
 	</wpt>
-	<wpt lat="54.697409" lon="20.494562">
+	<wpt lat="54.697412" lon="20.494567">
+		<ele>2.9</ele>
 		<name>Музей марцепана</name>
 	</wpt>
-	<wpt lat="54.706581" lon="20.500296">
+	<wpt lat="54.706574" lon="20.500296">
+		<ele>-0.8</ele>
 		<name>Музей океана</name>
 	</wpt>
-	<wpt lat="54.722251" lon="20.522993">
+	<wpt lat="54.722260" lon="20.522999">
+		<ele>20.2</ele>
 		<name>Музей янтаря</name>
 	</wpt>
-	<wpt lat="54.700852" lon="20.515396">
+	<wpt lat="54.700845" lon="20.515403">
+		<ele>-1.5</ele>
 		<name>Пармезан</name>
 	</wpt>
-	<wpt lat="54.964809" lon="20.485426">
+	<wpt lat="54.964817" lon="20.485426">
+		<ele>1.1</ele>
 		<name>Променад (крас вид)</name>
 	</wpt>
-	<wpt lat="54.964999" lon="20.486211">
+	<wpt lat="54.964989" lon="20.486220">
+		<ele>1.5</ele>
 		<name>АмБар (рыбный рест)</name>
 	</wpt>
-	<wpt lat="54.962708" lon="20.477880">
+	<wpt lat="54.962715" lon="20.477873">
+		<ele>1.5</ele>
 		<name>Фаб (не бургеры)</name>
 	</wpt>
-	<wpt lat="55.154923" lon="20.851245">
+	<wpt lat="55.154932" lon="20.851237">
+		<ele>-0.1</ele>
 		<name>Еда</name>
 	</wpt>
-	<wpt lat="55.221162" lon="20.906365">
+	<wpt lat="55.221172" lon="20.906361">
+		<ele>36.5</ele>
 		<name>Эфа</name>
 	</wpt>
-	<wpt lat="55.180186" lon="20.862131">
+	<wpt lat="55.180188" lon="20.862137">
+		<ele>11.3</ele>
 		<name>Танцующий лес</name>
 	</wpt>
-	<wpt lat="54.716057" lon="20.518575">
+	<wpt lat="54.716059" lon="20.518578">
+		<ele>12.8</ele>
 		<name>Нижнее озеро</name>
 	</wpt>
-	<wpt lat="54.728150" lon="20.519206">
+	<wpt lat="54.728161" lon="20.519201">
+		<ele>19.0</ele>
 		<name>Верхнее озеро</name>
 	</wpt>
-	<wpt lat="54.706763" lon="20.509401">
+	<wpt lat="54.706767" lon="20.509394">
+		<ele>2.5</ele>
 		<name>Остров Канта</name>
 	</wpt>
-	<wpt lat="54.703237" lon="20.515618">
+	<wpt lat="54.703227" lon="20.515617">
+		<ele>1.5</ele>
 		<name>Рабная деревня</name>
 	</wpt>
-	<wpt lat="54.719042" lon="20.469146">
-		<name>Амалиенау</name>
+	<wpt lat="54.719041" lon="20.469140">
+		<ele>20.1</ele>
+		<name>р-он Амалиенау</name>
 	</wpt>
-	<wpt lat="54.704492" lon="20.493457">
+	<wpt lat="54.704493" lon="20.493451">
+		<ele>-0.8</ele>
 		<name>Фридрихсбургские ворота</name>
 	</wpt>
-	<wpt lat="54.707332" lon="20.529205">
+	<wpt lat="54.707325" lon="20.529200">
+		<ele>3.5</ele>
 		<name>Набережная Преголи</name>
 	</wpt>
-	<wpt lat="54.705877" lon="20.515056">
+	<wpt lat="54.705888" lon="20.515059">
+		<ele>1.7</ele>
 		<name>Синагога</name>
 	</wpt>
-	<wpt lat="54.713215" lon="20.509674">
+	<wpt lat="54.713205" lon="20.509673">
+		<ele>18.2</ele>
 		<name>Музей “Бункер”</name>
 	</wpt>
-	<wpt lat="54.705085" lon="20.507253">
+	<wpt lat="54.705094" lon="20.507249">
+		<ele>3.3</ele>
 		<name>Музей изобразительных искусств</name>
 	</wpt>
-	<wpt lat="54.937935" lon="20.152638">
+	<wpt lat="54.937931" lon="20.152639">
+		<ele>20.5</ele>
 		<name>озеро Тихое</name>
 	</wpt>
-	<wpt lat="54.944003" lon="20.146233">
+	<wpt lat="54.944004" lon="20.146223">
+		<ele>42.4</ele>
 		<name>Светлогорск-2</name>
 	</wpt>
-	<wpt lat="54.943313" lon="20.154640">
+	<wpt lat="54.943317" lon="20.154635">
+		<ele>41.0</ele>
 		<name>водонапорная башня Светлогорска</name>
 	</wpt>
-	<wpt lat="54.945160" lon="20.159022">
+	<wpt lat="54.945162" lon="20.159012">
+		<ele>43.1</ele>
 		<name>Янтарь-холл</name>
 	</wpt>
-	<wpt lat="54.942691" lon="20.156079">
+	<wpt lat="54.942695" lon="20.156072">
+		<ele>46.7</ele>
 		<name>Лиственничный парк</name>
 	</wpt>
-	<wpt lat="54.946491" lon="20.154507">
+	<wpt lat="54.946493" lon="20.154506">
+		<ele>7.8</ele>
 		<name>солнечные часы</name>
 	</wpt>
-	<wpt lat="54.942716" lon="20.154819">
+	<wpt lat="54.942716" lon="20.154828">
+		<ele>43.1</ele>
 		<name>Улица Октябрьская</name>
 	</wpt>
-	<wpt lat="54.941270" lon="20.157911">
+	<wpt lat="54.941278" lon="20.157918">
+		<ele>44.5</ele>
 		<name>Улица Юрия Гагарина</name>
 	</wpt>
-	<wpt lat="54.944120" lon="20.156634">
+	<wpt lat="54.944111" lon="20.156630">
+		<ele>45.0</ele>
 		<name>Улица Ленина</name>
 	</wpt>
-	<wpt lat="54.959798" lon="20.482499">
+	<wpt lat="54.959796" lon="20.482508">
+		<ele>5.0</ele>
 		<name>водонапорная башня</name>
 	</wpt>
-	<wpt lat="54.960974" lon="20.478435">
+	<wpt lat="54.960977" lon="20.478431">
+		<ele>5.3</ele>
 		<name>Курортный проспект</name>
 	</wpt>
-	<wpt lat="54.963574" lon="20.488785">
+	<wpt lat="54.963573" lon="20.488795">
+		<ele>5.9</ele>
 		<name>парк «Плантаже»</name>
 	</wpt>
-	<wpt lat="54.959460" lon="20.475038">
+	<wpt lat="54.959453" lon="20.475041">
+		<ele>3.3</ele>
 		<name>сквер королевы Луизы</name>
+	</wpt>
+	<wpt lat="54.693376" lon="20.502246">
+		<ele>2.3</ele>
+		<name>Автовокзал</name>
+	</wpt>
+	<wpt lat="54.717432" lon="20.477655">
+		<ele>10.9</ele>
+		<name>Центральный парк</name>
+	</wpt>
+	<wpt lat="54.717836" lon="20.465312">
+		<ele>19.7</ele>
+		<name>ул Кутузова</name>
+	</wpt>
+	<wpt lat="54.716882" lon="20.470977">
+		<ele>18.3</ele>
+		<name>ул Огарёва</name>
+	</wpt>
+	<wpt lat="54.722276" lon="20.472955">
+		<ele>24.6</ele>
+		<name>ул Пугачёва</name>
+	</wpt>
+	<wpt lat="54.722210" lon="20.487755">
+		<ele>21.7</ele>
+		<name>Зоопарк</name>
+	</wpt>
+	<wpt lat="54.719900" lon="20.501377">
+		<ele>16.9</ele>
+		<name>площадь Победы</name>
+	</wpt>
+	<wpt lat="55.089531" lon="20.733810">
+		<ele>5.4</ele>
+		<name>Кольцевание птиц</name>
+	</wpt>
+	<wpt lat="54.944593" lon="20.146732">
+		<ele>38.0</ele>
+		<name>Канатная дорога</name>
 	</wpt>
 </gpx>
